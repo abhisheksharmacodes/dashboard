@@ -6,7 +6,7 @@ import Header from './assets/components/Header';
 import ProfileSection from './assets/components/ProfileSection';
 import AcademicsSection from './assets/components/AcademicsSection';
 import SkillsSection from './assets/components/SkillsSection';
-import GoalsSection from './assets/components/GoalsSection';
+import MoreSection from './assets/components/MoreSection';
 import ProjectsSection from './assets/components/ProjectsSection';
 import CertificationsSection from './assets/components/CertificationsSection';
 
@@ -24,7 +24,7 @@ const MOBILE_BREAKPOINT = 660;
 export default function Home() {
   const [activeTab, setActiveTab] = useState('Profile');
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-  const { profile, academics, experience, skills, goals, projects, certifications } = profileData;
+  const { profile, academics, experience, skills, more, projects, certifications } = profileData;
 
   const handleResize = useCallback(() => {
     if (window.innerWidth >= MOBILE_BREAKPOINT) {
@@ -54,7 +54,7 @@ export default function Home() {
       case 'Certifications':
         return <CertificationsSection certifications={certifications} />;
       case 'More':
-        return <GoalsSection goals={goals} />;
+        return <MoreSection more={more} />;
       default:
         return null;
     }
