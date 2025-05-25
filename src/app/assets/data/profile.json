@@ -1,0 +1,148 @@
+{
+  "profile": {
+    "name": "ABHISHEK SHARMA",
+    "title": "Full-stack Developer",
+    "bio": "Full-stack Developer passionate about building user-first web and mobile applications with a focus on Responsive Web Design, Accessibility, and Cross-browser compatibility. Proficient in API integration, web performance optimization, and UI/UX design principles which enables effective communication with design teams, combining strong technical skills with collaborative problem-solving to deliver high-quality, efficient code.",
+    "contact": {
+      "email": "geekysharma31@gmail.com",
+      "github": "https://github.com/abhisheksharmacodes",
+      "linkedin": "https://www.linkedin.com/in/abhishek-sharma-here/"
+    }
+  },
+  "academics": [
+    {
+      "title": "MCA",
+      "institution": "LPU (Punjab, India)",
+      "period": "2024",
+      "cgpa": "7.52",
+      "description": "Mastering Web technologies, Programming skills, Understanding of Networking, Big Data and a lot."
+    },
+    {
+      "title": "BCA",
+      "institution": "Govt College (Rajasthan)",
+      "period": "2021",
+      "percentage": "86.23%",
+      "description": "Course work included Web technologies, Digital electronics, Database Management, Networking and more. Developed many college projects individually and with teams too."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "UptoSkills",
+      "period": "Nov 2024 – Feb 2025",
+      "description": [
+        "Implemented 15+ features across multiple projects, resulting in increased user engagement.",
+        "Successfully resolved 10+ critical bugs ahead of deadlines, contributing to improved application stability and user experience.",
+        "Collaborated with a team to deliver high-quality projects."
+      ],
+      "certificate": "https://drive.google.com/file/d/1TaTbgxRa3DcTe0m08-UERMzDEB-CraOY/view",
+      "technologies": [
+        "ReactJS",
+        "Tailwind CSS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "API"
+      ]
+    }
+  ],
+  "skills": {
+    "front-end_technologies": [
+      "HTML",
+      "CSS",
+      "TailwindCSS",
+      "JavaScript",
+      "TypeScript",
+      "ReactJS",
+      "Tailwind CSS"
+    ],
+    "back-end_technologies": [
+      "NodeJS",
+      "ExpressJS",
+      "REST API"
+    ],
+    "database": [
+      "MongoDB"
+    ],
+    "designing_tool": [
+      "Figma"
+    ],
+    "version_control_tool": [
+      "Git"
+    ],
+    "more": [
+      "AI Integration",
+      "Prompt engineering"
+    ]
+  },
+  "goals": {
+    "professional": [
+      "Master advanced React patterns and state management",
+      "Learn cloud architecture and deployment",
+      "Contribute to open-source projects"
+    ],
+    "hobbies": [
+      "Book Reading",
+      "Chess"
+    ]
+  },
+  "projects": [
+    {
+      "title": "LearninGo",
+      "technologies": [
+        "ReactJS",
+        "Tailwind CSS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "API"
+      ],
+      "period": "Nov 2024",
+      "description": "Developed a personalized learning platform using GeminiAI. Students faces problem when they try to practice questions from different domains on one platform. With LearninGO, they can practice any topic in various languages through interactive MCQs, tailored to their skill level. The platform leverages GeminiAI for generating fresh questions and offers gamified features to enhance the learning experience.",
+      "links": {
+        "live": "https://learningo.vercel.app/",
+        "code": "https://github.com/abhisheksharmacodes/learningo"
+      }
+    },
+    {
+      "title": "Newzlash",
+      "technologies": [
+        "ReactJS",
+        "Tailwind CSS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "API"
+      ],
+      "period": "June 2024",
+      "description": "Created a web application to curate and deliver personalized sustainability news. Newzlash addresses the challenge of information overload by providing users with a tailored news feed based on their specific sustainability interests. The platform filters out irrelevant content, enabling users to stay informed and make informed decisions within their chosen niche.",
+      "links": {
+        "live": "https://newzlash.vercel.app/",
+        "code": "https://github.com/abhisheksharmacodes/newzlash"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Web Development", 
+      "institution": "Internshala",
+      "period": "Feb 2024",
+      "description": "Completed training on Web Development with 88% grade. Gained proficiency in HTML, CSS, JavaScript, React and Bootstrap. Also learned PHP & MySQL.",
+      "certificate": "https://drive.google.com/file/d/1Q3jleTMIRjhBXbHcCqUT9AlFjHCYaJZ-/view"
+    },
+    {
+      "title": "NodeJS",
+      "institution": "Simplilearn",
+      "period": "Mar 2024",
+      "description": "Completed NodeJS training and developed expertise in NodeJS, ExpressJS, REST API, JWT Auth, MongoDB and MySQL using NodeJS.",
+      "certificate": "https://drive.google.com/file/d/1DEKtHX5EpQlm9s3nvZZ1_i5qUrWStd2l/view"
+    },
+    {
+      "title": "UI/UX Design",
+      "institution": "Internshala",
+      "period": "Oct 2021",
+      "description": "Completed UI/UX design training with 82% grade, earned skills in Design basics, Figma, Design systems, Web design, Typography, Iconography etc.",
+      "certificate": "https://drive.google.com/file/d/14VYT-I9JKP-CfQQqro2A7XWe6OTloEDd/view"
+    }
+  ]
+}
